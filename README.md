@@ -6,7 +6,7 @@
 
 ![screenshot Image](./img/Screenshot-pic.jpeg)
 
-This project is a responsive Todo list app which allows you to add and remove task. The design was gotten from minimalist.
+This project is a responsive Todo list app which allows you to add and remove task. The design was inspired by minimalist.
 
 ## Built With
 
@@ -15,7 +15,7 @@ This project is a responsive Todo list app which allows you to add and remove ta
 
 ## Live Demo (if available)
 
-[To-Do-list]()
+[To-Do-list](https://ezekielutshudi.github.io/To-Do-List/)
 
 ## Getting Started
 
